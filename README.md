@@ -1,7 +1,10 @@
 # Natural-Language-Processing
 
-## N-gram Language Models
-
-## Text Classification and Analogy Tests
-
-## Statistical Machine Translation
+Collection of Natural Language Processing projects using analytical and empirical methods.
+<ul>
+  <li>N-gram Language Models</li>
+  <li>Text Classification and Analogy Tests</li>
+  <li>Statistical Machine Translation</li>
+  <li>Information Retrieval</li>
+  <li>Text Generation</li>
+</ul>
