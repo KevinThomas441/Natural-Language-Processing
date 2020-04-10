@@ -6,5 +6,5 @@ Collection of Natural Language Processing projects using analytical and empirica
   <li>Text Classification and Analogy Tests</li>
   <li>Statistical Machine Translation</li>
   <li>Information Retrieval</li>
-  <li>Text Generation</li>
+  <li>Misc.</li>
 </ul>
